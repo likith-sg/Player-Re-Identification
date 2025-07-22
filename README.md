@@ -1,5 +1,5 @@
 
-# Player Re-Identification (Task 2)
+# Player Re-Identification
 
 ## Objective
 
@@ -8,6 +8,14 @@ This notebook performs player re-identification on a 15-second sports video clip
 - Assign unique IDs to each player.
 - Re-identify players who leave the frame and return later, maintaining consistent IDs.
 - Simulate real-time tracking and re-identification.
+
+## Demo
+
+### Input (15-second Clip Preview)
+![Input](assets/15sec_input_720p.gif)
+
+### Output (Tracked Players)
+![Output](assets/output_tracked.gif)
 
 ## Environment Setup
 
